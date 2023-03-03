@@ -59,7 +59,7 @@ p {
     height: 45px;
     display: block;
     background-color: #2ccb69;
-    background-image: url('icon-contact-close.svg');
+    background-image: url('../img/icon-contact-close.svg');
     background-repeat: no-repeat;
     position: fixed;
     bottom: 45px;
@@ -127,14 +127,14 @@ p {
     position: absolute;
     bottom: -25px;
     right: 0;
-    background: transparent url('corner.svg') no-repeat;
+    background: transparent url('../img/corner.svg') no-repeat;
   }
   /*--Home--*/
   .jl-display-text {
     margin-top: 40%;
   }
   #jl-home-presentation {
-    background-image: url('joao-lemon-designer-home.png');
+    background-image: url('../img/joao-lemon-designer-home.png');
     background-repeat: no-repeat;
     background-position: 60% top;
     position: relative;
